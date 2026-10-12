@@ -1,0 +1,8 @@
+{
+  "name": "GX Trade - Business Support & Consultancy Services",
+  "description": "UK administrative support, official letter decoding, visa processing, document translation, and corporate travel booking for gxtrade.co.uk.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
